@@ -1,0 +1,21 @@
+#content-area{
+    height: 85vh;
+}
+.sec1 {
+      background: red;
+      color:white;
+      text-transform: uppercase;
+      
+    }
+    
+    .sec2 {
+      background: yellow;
+      color:blue;
+      overflow-y: scroll;
+    }
+    
+    .sec3 {
+      background: blue;
+      color:white;
+      text-transform: uppercase
+    }
